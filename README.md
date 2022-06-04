@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on https://github.com/williamhCode/Batch-Renderer
+- 🌱 I’m currently trying to learn c++.
+
 <!--
 **williamhCode/williamhCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
