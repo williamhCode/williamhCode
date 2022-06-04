@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on https://github.com/williamhCode/Batch-Renderer
 - 🌱 I’m currently trying to learn c++.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **williamhCode/williamhCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
