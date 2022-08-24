@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://github.com/williamhCode/Batch-Renderer
-- 🌱 I’m currently learning Cython.
+- 🔭 I’m currently working on SCHOOL(Purdue).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
