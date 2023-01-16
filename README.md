@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SCHOOL(Purdue), and a custom, blazingly fast [2d graphics library](https://github.com/williamhCode/2D-Graphics-Lib) powered by Cython (private for now).
+- 🔭 I’m currently working on SCHOOL(Purdue), and a custom, blazingly fast [2d graphics library](https://github.com/williamhCode/2D-Graphics-Lib) powered by Cython (private for now, will release when ready).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
