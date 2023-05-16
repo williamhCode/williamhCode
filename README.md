@@ -2,8 +2,9 @@
 
 - Graphics and game programming hobbyist
 - Neovim enthusiast
-- Currently studying CS at Purdue Univeristy.
+- Computer Science (B.S.) at Purdue Univeristy.
 - Working and a custom, blazingly fast [2d graphics library](https://github.com/williamhCode/cyclone) for python.
+- Learning Rust and wgpu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
