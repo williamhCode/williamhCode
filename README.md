@@ -3,8 +3,8 @@
 - Graphics and game programming hobbyist
 - Neovim enthusiast
 - Computer Science (B.S.) at Purdue Univeristy.
-- Working and a custom, blazingly fast [2d graphics library](https://github.com/williamhCode/cyclone) for python.
-- Learning C++ and WebGPU
+- <s>Working and a custom, blazingly fast [2d graphics library](https://github.com/williamhCode/cyclone) for python.</s>
+- Learning C++ and WebGPU ([minecraft clone](https://github.com/williamhCode/minecraft_webgpu))
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
