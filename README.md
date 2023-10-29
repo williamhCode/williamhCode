@@ -6,7 +6,7 @@
 - <s>Working and a custom, blazingly fast [2d graphics library](https://github.com/williamhCode/cyclone) for python.</s>
 - Learning C++ and WebGPU ([minecraft clone](https://github.com/williamhCode/minecraft_webgpu))
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **williamhCode/williamhCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
