@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me
 
 - Graphics and game programming hobbyist
 - Computer Science (B.S.) at Purdue Univeristy.
