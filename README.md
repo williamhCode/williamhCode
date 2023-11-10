@@ -1,8 +1,9 @@
 ### About Me
 
 - Graphics and game programming hobbyist
-- Computer Science (B.S.) at Purdue Univeristy.
+- Computer Science (B.S.) at Purdue Univeristy
 - Learning C++ and WebGPU ([minecraft clone](https://github.com/williamhCode/minecraft_webgpu))
+- [Neovim](https://neovim.io/) is my text editor
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
