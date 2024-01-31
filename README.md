@@ -2,7 +2,7 @@
 
 - Graphics and game programming hobbyist
 - Computer Science (B.S.) at Purdue Univeristy
-- Learning C++ and WebGPU ([minecraft clone](https://github.com/williamhCode/minecraft_webgpu))
+- Learning C++ and WebGPU
 - [Neovim](https://neovim.io/) ftw
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhCode&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
